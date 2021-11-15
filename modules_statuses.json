@@ -1,0 +1,7 @@
+{
+    "Service": true,
+    "Pegawai": true,
+    "Admin": true,
+    "AdminDua": true,
+    "AdminTiga": true
+}

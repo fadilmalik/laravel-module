@@ -1,0 +1,13 @@
+{
+    "name": "AdminTiga",
+    "alias": "admintiga",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AdminTiga\\Providers\\AdminTigaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

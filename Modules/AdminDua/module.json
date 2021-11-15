@@ -1,0 +1,13 @@
+{
+    "name": "AdminDua",
+    "alias": "admindua",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AdminDua\\Providers\\AdminDuaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
